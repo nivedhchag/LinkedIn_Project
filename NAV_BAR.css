@@ -1886,7 +1886,7 @@ color-mix(in srgb, var(--color-background-offset) 75%, transparent));
      width: 250px;
      position: relative;
      right: -888px;
-     top: 5px;
+     top: 20px;
 }
 .dropdown_text1{
     padding-top: 10px;
