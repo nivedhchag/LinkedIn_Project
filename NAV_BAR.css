@@ -1686,7 +1686,7 @@ color-mix(in srgb, var(--color-background-offset) 75%, transparent));
 
 .input-container {
     position: relative;
-    left: 95px;
+    left: 105px;
     
   }
   
@@ -1714,7 +1714,7 @@ color-mix(in srgb, var(--color-background-offset) 75%, transparent));
   }
   .location-container {
     position: relative;
-    left: 70px;
+    left: 90px;
   }
   
   .location-container i {
@@ -1747,13 +1747,13 @@ color-mix(in srgb, var(--color-background-offset) 75%, transparent));
 }
 #home-icon{
     position: relative;
-    right: -20px;
+    right: -25px;
     top: -5px;
     cursor: pointer;
 }
 #my_network{
     position: relative;
-    right: 30px;
+    right: 18px;
     top: -5px;
     cursor: pointer;
     
@@ -1761,33 +1761,33 @@ color-mix(in srgb, var(--color-background-offset) 75%, transparent));
 }
 #briefcase{
     position: relative;
-    right: 33px;
+    right: 25px;
     top: -5px;
     cursor: pointer;
 
 }
 #messaging{
     position: relative;
-    right: 75px;
+    right: 60px;
     top: -5px;
     cursor: pointer;
 }
 #notifications{
     position: relative;
-    right: 123px;
+    right: 103px;
     top: -5px;
     cursor: pointer;
 }
 #profile-img{
     position: relative;
-    right: 125px;
+    right: 105px;
     top: -5px;
     cursor: pointer;
 
 }
 #dotted_image{
     position: relative;
-    right: 158px;
+    right: 188px;
     top: -2px;
     cursor: pointer;
 
@@ -1795,48 +1795,48 @@ color-mix(in srgb, var(--color-background-offset) 75%, transparent));
 }
 #play_button{
     position: relative;
-    right: 200px;
+    right: 230px;
     top: -2px;
     cursor: pointer;
 
 
 }
 .hovering1{
-    position: relative;top: 14px;right: -54px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
+    position: relative;top: 14px;right: -60px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
     line-height: 1.33333;    font-family: var(--artdeco-reset-typography-font-family-sans);
     
 }
 .hovering2{
-    position: relative;top: 20px;right: -22px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
+    position: relative;top: 20px;right: -32px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
     line-height: 1.33333;    font-family: var(--artdeco-reset-typography-font-family-sans);
     
 }
 .hovering3{
-    position: relative;top: 20px;right: 4px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
+    position: relative;top: 20px;right: -4px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
     line-height: 1.33333;    font-family: var(--artdeco-reset-typography-font-family-sans);
     
 }
 .hovering4{
-    position: relative;top: 20px;right: 25px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
+    position: relative;top: 20px;right: 15px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
     line-height: 1.33333;    font-family: var(--artdeco-reset-typography-font-family-sans);
     
 }
 .hovering5{
-    position: relative;top: 20px;right: 66px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
+    position: relative;top: 20px;right: 46px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
     line-height: 1.33333;    font-family: var(--artdeco-reset-typography-font-family-sans);
     
 }
 .hovering6{
-    position: relative;top: 20px;right: 95px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
+    position: relative;top: 20px;right: 73px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
     line-height: 1.33333;    font-family: var(--artdeco-reset-typography-font-family-sans);
     
 }
 .hovering7{
-    position: relative;top: 20px;right: 110px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
+    position: relative;top: 20px;right: 135px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
     line-height: 1.33333;    font-family: var(--artdeco-reset-typography-font-family-sans);
 }
 .hovering8{
-    position: relative;top: 20px;right: 159px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
+    position: relative;top: 20px;right: 189px;color: var(--color-text-low-emphasis);font-size: 0.8rem;
     line-height: 1.33333;    font-family: var(--artdeco-reset-typography-font-family-sans);
     
 }
@@ -1885,7 +1885,7 @@ color-mix(in srgb, var(--color-background-offset) 75%, transparent));
     
      width: 250px;
      position: relative;
-     right: -888px;
+     right: -856px;
      top: 20px;
 }
 .dropdown_text1{
@@ -1923,4 +1923,12 @@ color-mix(in srgb, var(--color-background-offset) 75%, transparent));
 }
 #dropdown_text4:hover{
     text-decoration: underline;
+}
+.vertical_line{
+    border: 1px solid gray;
+    width:62px;
+    transform: rotate(90deg);
+    position: relative;
+    right: 120px;
+    height: 0;
 }
